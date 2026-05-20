@@ -1,15 +1,15 @@
-  # Olá 👋, sou o Pedro Sousa
-  
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
-  ## 🚀 Sobre mim
-  
-  Sou **Engenheiro Informático** apaixonado por desenvolvimento de software, com experiência em **web development**, **sistemas distribuídos** e **inteligência artificial**. Gosto de criar soluções práticas e aprender novas tecnologias.
-  
-  - 🌍 Baseado em **Portugal**
-  - 🔭 Atualmente a trabalhar em: **Respira-AI**
-  - 🌱 A aprender: **React, Node.js, C#**
-  - 💡 Interesses: Full-Stack, IA, Sistemas Distribuídos, Jogos
+  <p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  </p>
+
+  <h1 align="center">Olá 👋, sou o Pedro Sousa</h1>
+  <h3 align="center">Engenheiro Informático | Portugal</h3>
+
+  <p align="center">
+    🔭 Atualmente a trabalhar em: <strong>Respira-AI</strong> •
+    🌱 A aprender: <strong>React, Node.js, C#</strong> •
+    💡 Full-Stack, IA, Sistemas Distribuídos
+  </p>
   
   ---
   
@@ -59,7 +59,7 @@
   
   ## 📫 Contacto
   
-  [![LinkedIn](https://www.linkedin.com/in/pedro-sousa-751b8b1b1/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sousa-751b8b1b1)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroSousa-dev13)
   
   ---

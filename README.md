@@ -1,6 +1,9 @@
   <table>
     <tr>
-      <td width="60%" valign="middle">
+      <td width="50%" valign="middle" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+      </td>
+      <td width="50%" valign="middle">
         <h1>Olá 👋, sou o Pedro Sousa</h1>
         <h3>Engenheiro Informático | Portugal</h3>
         <p>
@@ -8,9 +11,6 @@
           🌱 A aprender: <strong>React, Node.js, C#</strong><br>
           💡 Full-Stack, IA, Sistemas Distribuídos
         </p>
-      </td>
-      <td width="40%" valign="middle" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
       </td>
     </tr>
   </table>

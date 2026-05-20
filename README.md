@@ -1,15 +1,19 @@
-  <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-  </p>
-
-  <h1 align="center">Olá 👋, sou o Pedro Sousa</h1>
-  <h3 align="center">Engenheiro Informático | Portugal</h3>
-
-  <p align="center">
-    🔭 Atualmente a trabalhar em: <strong>Respira-AI</strong> •
-    🌱 A aprender: <strong>React, Node.js, C#</strong> •
-    💡 Full-Stack, IA, Sistemas Distribuídos
-  </p>
+  <table>
+    <tr>
+      <td width="60%" valign="middle">
+        <h1>Olá 👋, sou o Pedro Sousa</h1>
+        <h3>Engenheiro Informático | Portugal</h3>
+        <p>
+          🔭 Atualmente a trabalhar em: <strong>Respira-AI</strong><br>
+          🌱 A aprender: <strong>React, Node.js, C#</strong><br>
+          💡 Full-Stack, IA, Sistemas Distribuídos
+        </p>
+      </td>
+      <td width="40%" valign="middle" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+      </td>
+    </tr>
+  </table>
   
   ---
   

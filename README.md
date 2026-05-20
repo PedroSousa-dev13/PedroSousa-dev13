@@ -43,16 +43,15 @@ Sou **Engenheiro Informático** apaixonado por desenvolvimento de software, com 
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSousa-dev13&show_icons=true&theme=dark&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousa-dev13&layout=compact&langs_count=7&theme=dark"/>
-</p>
+![GitHub followers](https://img.shields.io/github/followers/PedroSousa-dev13?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/PedroSousa-dev13?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/PedroSousa-dev13/Respira-AI?style=flat-square)
 
 ---
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![LinkedIn](https://www.linkedin.com/in/pedro-sousa-751b8b1b1/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroSousa-dev13)
 
 ---

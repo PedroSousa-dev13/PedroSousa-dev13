@@ -4,7 +4,7 @@
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
       </td>
       <td width="50%" valign="middle">
-        <h1>Olá 👋, sou o Pedro Sousa</h1>
+        <h1>Olá 👋, sou o Pedro </h1>
         <h3>Engenheiro Informático | Portugal</h3>
         <p>
           🔭 Atualmente a trabalhar em: <strong>Respira-AI</strong><br>

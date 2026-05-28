@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 # Olá, sou o Pedro Sousa 👋
 
@@ -99,17 +101,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroSousa-dev13&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PedroSousa-dev13&theme=dark&locale=pt_BR&date_format=j%2Fn%2Fy)](https://streak-stats.demolab.com)
+
+[![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=PedroSousa-dev13&theme=dark)](https://github-readme-streak-stats.herokuapp.com)
+
+[![GitHub Readme Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroSousa-dev13&theme=react-dark&hide_border=true)](https://github-readme-activity-graph.vercel.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousa-dev13&layout=compact&theme=dark&hide_border=true)
 
 </div>
-
----
-
-## 🔥 Atividade no GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PedroSousa-dev13&theme=dark&hide_border=true)](https://streak-stats.demolab.com)
 
 ---
 

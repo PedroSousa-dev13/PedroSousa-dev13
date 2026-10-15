@@ -7,8 +7,8 @@
 
 ### Engenheiro Informático | Backend Developer | Portugal
 
-🔭 **Atualmente a trabalhar em:** TelemetryCore API — Sistema de Ingestão de Dados
-🌱 **A aprender:** Java
+🔭 **Atualmente a trabalhar em:** TelemetryCore API — Sistema de Ingestão de Dados\
+🌱 **A aprender:** Java\
 💡 **Interesses:** Backend Development e futuramente Full-Stack Development, IA, Sistemas Distribuídos, Segurança
 
 

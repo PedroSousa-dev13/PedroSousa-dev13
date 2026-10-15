@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
+
 # Olá, sou o Pedro Sousa 👋
 
 ### Engenheiro Informático | Backend Developer | Portugal
@@ -9,6 +10,7 @@
 🔭 **Atualmente a trabalhar em:** TelemetryCore API — Sistema de Ingestão de Dados
 🌱 **A aprender:** Java
 💡 **Interesses:** Backend Development e futuramente Full-Stack Development, IA, Sistemas Distribuídos, Segurança
+
 
 ---
 

@@ -4,7 +4,7 @@
 
 # Olá, sou o Pedro Sousa 👋
 
-### Engenheiro Informático | Full-Stack Developer | Portugal
+### Engenheiro Informático | Backend Developer | Portugal
 
 🔭 **Atualmente a trabalhar em:** [MotoGuard IoT](https://github.com/PedroSousa-dev13/Moto-Guard-IoT) — Sistema de monitorização inteligente para motociclos  
 🌱 **A aprender:** React, Node.js, Machine Learning, IoT  
